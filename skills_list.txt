@@ -1,0 +1,16 @@
+Python
+Java
+C++
+HTML
+CSS
+JavaScript
+Machine Learning
+Data Science
+Flask
+Django
+SQL
+Excel
+Reactjs
+Nodejs
+Expressjs
+Data Analytics
